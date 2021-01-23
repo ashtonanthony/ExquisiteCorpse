@@ -1,1 +1,1 @@
-"Once upon a time, there was a coder who was learning GIT."
+By using git they were able to code things quicker, and more efficiently, than ever before.
